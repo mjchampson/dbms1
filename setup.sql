@@ -1,5 +1,5 @@
 set echo on
-connect system / Kal
+connect system / amakal
 
 ---create PHP Application User
 drop phpuser cascade;
